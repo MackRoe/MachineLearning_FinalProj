@@ -39,7 +39,7 @@ According to this, the following datasets are also provided:
 
 
 
-_Attribute Information:_
+#### _Attribute Information:_
 
 1. CT {CT_range_1, CT_range_2, CT_range_3, CT_range_4}
 2. CU {CU_range_1, CU_range_2, CU_range_3, CU_range_4}
@@ -49,3 +49,12 @@ _Attribute Information:_
 
 The numerical attributes (CT, CU, LT) was discretized.
 Several of the papers listed below contain detailed descriptions of how these attributes were discretized.
+
+#### *_Source:_*
+
+Gianni D'Angelo, Ph.D.
+Department of Law, Economics, Management and Quantitative Methods (DEMM)
+University of Sannio
+Benevento, Italy.
+
+Email: dangelo '@' unisannio.it
